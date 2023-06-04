@@ -1,2 +1,3 @@
 # project-01-BasicPython
-revisit python command syntax through mini projects from FreeCodeCamp 
+Revisit python command & syntax through mini projects from FreeCodeCamp
+Link: https://www.freecodecamp.org/news/python-projects-for-beginners/
